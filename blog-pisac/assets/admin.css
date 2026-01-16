@@ -1,0 +1,18 @@
+.bp-card {
+  background: #fff;
+  border: 1px solid #ccd0d4;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.bp-plan-item {
+  border: 1px solid #e2e4e7;
+  padding: 12px;
+  margin-bottom: 12px;
+  background: #f9f9f9;
+}
+
+.bp-status {
+  margin-top: 12px;
+  font-weight: 600;
+}
